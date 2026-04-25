@@ -125,14 +125,6 @@ User manually enters response.
 
 ---
 
-## ❗ Limitations
-
-- Uses rule-based answer generation (no external LLM API)  
-- Limited to single PDF  
-- No UI (CLI-based interaction)  
-
----
-
 ## 🔮 Future Enhancements
 
 - Integrate LLM APIs (OpenAI / Groq)  
